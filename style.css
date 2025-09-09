@@ -1,0 +1,22 @@
+*{
+    background-color: beige;
+}
+.layout{
+    
+    display: flex;
+    flex-direction: row;
+}
+.form{
+    background-color: blueviolet;
+}
+
+form{
+    display: flex;
+    flex-direction: column;
+}
+.table{
+    background-color: rgb(72, 120, 151);
+}
+table, th, td {
+  border:1px solid black;
+}
